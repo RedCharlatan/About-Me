@@ -1,3 +1,2 @@
-Hi, I’m @sydney-kay, my pronouns are it/they
-I'm currently halfway through my bachelor's in Computer Science, and focusing my learning on Java and Python at the moment
+Hi there! I'm just a little guy in a big computer. I am going to cause errors.
 
